@@ -1,0 +1,4 @@
+com\example\Star\controller\Ta_bookmanagerController.class
+com\example\Star\repository\Ta_bookmanagerRepository.class
+com\example\Star\StarApplication.class
+com\example\Star\model\Ta_bookmanager.class
